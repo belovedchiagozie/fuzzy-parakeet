@@ -94,14 +94,15 @@
   <div class="container">
     <header>
       <!-- Replace src with your logo path if required -->
-      <img src="<img width="240" height="242" alt="image" src="https://github.com/user-attachments/assets/dcd5825b-233b-4b00-96e6-4d1182b2a193" />
+      <img src="<img width="240" height="242" alt="image" src="https://github.com/user-attachments/assets/94abcf63-8985-4b6e-a360-9af9300be969" />
+"image" src="https://github.com/user-attachments/assets/dcd5825b-233b-4b00-96e6-4d1182b2a193" />
 " alt="The Real World Expert Logo" />
       <h1>The Real World Expert | Client Verification Division</h1>
       <div class="sub">Official Client Services — Verification &amp; Compliance</div>
     </header>
 
     <main>
-      <p><strong>Dear [Client Name],</strong></p>
+      <p><strong>Dear [Mac Eduardo Silver],</strong></p>
 
       <p>
         This document serves as the official notice regarding your account status. Your recent withdrawal request is currently <strong>PENDING</strong> in our system. The “Pending” status indicates that your transaction has been received but is awaiting final account validation before it can be released to your designated wallet.
